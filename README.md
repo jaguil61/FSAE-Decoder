@@ -1,5 +1,6 @@
 # FSAE-Decoder
 This Program decodes CAN codes that are passed into it
+
 1.) First we will pass the data into a two dimensional vector and then "if"/"if else" statements will decode the data.
 		(Before moving onto next step make sure everything can decoded)
 			(In this version I used arrays to test the functions that will decode the data)
